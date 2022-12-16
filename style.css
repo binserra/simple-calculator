@@ -1,0 +1,16 @@
+
+body{
+    background-color: black;
+    color:aliceblue;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.results{
+    background-color: gray;
+    color: black;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
